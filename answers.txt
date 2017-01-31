@@ -1,0 +1,6 @@
+A.) There have been 7 commits, up to question 8.
+B.) The file was added Jan 24, 2017 at 22:28:11.
+C.) Log shows a history of the commits, whereas git status shows changed files, staged files, and untracked files.
+D.) Untracked files are visible to git but not tracked, whereas unstaged files' changes are tracked by git but not committed
+E.) The checkout command returns the working directory to the state of a previous commit via moving the HEAD to point to another branch. However, reset works by moving the branch  HEAD points to.
+F.) Upon testing a pull without committing changes, git allows the pull to occur.  
